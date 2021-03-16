@@ -1,1 +1,1 @@
-GB_Course_Python_libraries_for_Data_Science
+Курс: Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn
